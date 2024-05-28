@@ -1,0 +1,13 @@
+﻿  kursachh.cpp
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(114,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(123,16): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(222,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(230,16): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(255,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(263,16): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(304,22): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(354,38): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(354,56): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(395,19): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\user\Desktop\Курсач\kursachh\kursachh.cpp(399,23): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+  kursachh.vcxproj -> C:\Users\user\Desktop\Курсач\kursachh\x64\Debug\kursachh.exe
